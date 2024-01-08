@@ -18,13 +18,13 @@ Clone the repository to your local machine and follow the instructions below to 
 
 ```bash
 git clone https://github.com/Avinashkumar2811/Typing-Mater-in-Terminal-
-cd typing-test-game
+cd Typing-Mater-in-Terminal-
 ```
 
 2. Run the game:
 
 ```bash
-python typing_test_game.py
+python Typing Master in Terminal.py
 ```
 
 ## Usage
