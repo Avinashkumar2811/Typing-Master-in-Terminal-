@@ -18,7 +18,7 @@ Clone the repository to your local machine and follow the instructions below to 
 
 ```bash
 git clone https://github.com/Avinashkumar2811/Typing-Mater-in-Terminal-
-cd Typing-Mater-in-Terminal-
+cd Typing-Master-in-Terminal-
 ```
 
 2. Run the game:
